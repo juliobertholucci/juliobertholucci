@@ -39,7 +39,6 @@ Hoje conto com 5 anos de experiência em tecnologia e design, sempre buscando po
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliobertholucci)](https://github.com/anuraghazra/github-readme-stats)
 
-_[Opcional] Adicione estatísticas do GitHub para exibir visualmente sua atividade._
 
 
 ## Contribuições:
